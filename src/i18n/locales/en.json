@@ -1,0 +1,55 @@
+{
+  "header": {
+    "language": "Language"
+  },
+  "hero": {
+    "tagline": "The Moroccan Marketplace Reinvented",
+    "comingSoon": "Coming Soon"
+  },
+  "about": {
+    "title": "About NEWA",
+    "subtitle": "NEWA is a new e-commerce platform designed for the Moroccan market. Accessible via mobile app and website, NEWA offers a modern, intuitive, and local shopping experience. With a wide range of products, fast delivery, and secure payments, NEWA is reinventing the way Moroccans shop online.",
+    "features": {
+      "delivery": {
+        "title": "Local Delivery",
+        "description": "Fast delivery throughout Morocco"
+      },
+      "variety": {
+        "title": "Wide Variety",
+        "description": "Thousands of local and international products"
+      },
+      "payment": {
+        "title": "Secure Payment",
+        "description": "Multiple secure payment options"
+      },
+      "mobile": {
+        "title": "Mobile-first",
+        "description": "Experience optimized for mobile and web"
+      }
+    }
+  },
+  "preview": {
+    "title": "App & Website Preview",
+    "subtitle": "Discover the NEWA experience",
+    "app": "Mobile app",
+    "website": "Website",
+    "experience": "A smooth and intuitive user experience"
+  },
+  "signup": {
+    "title": "Sign Up",
+    "subtitle": "Be the first to discover NEWA",
+    "placeholder": "Your email address",
+    "button": "Subscribe",
+    "success": "Thank you for subscribing!"
+  },
+  "social": {
+    "title": "Follow Us",
+    "subtitle": "Stay connected with NEWA"
+  },
+  "footer": {
+    "rights": "© 2025 NEWA. All rights reserved.",
+    "terms": "Terms of Use",
+    "privacy": "Privacy Policy",
+    "contact": "Contact"
+  }
+}

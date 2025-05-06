@@ -1,0 +1,55 @@
+{
+  "header": {
+    "language": "Langue"
+  },
+  "hero": {
+    "tagline": "Le marché marocain réinventé",
+    "comingSoon": "Bientôt disponible"
+  },
+  "about": {
+    "title": "À propos de NEWA",
+    "subtitle": "NEWA est une nouvelle plateforme de e-commerce pensée pour le marché marocain. Disponible via application mobile et site web, NEWA propose une expérience d’achat moderne, intuitive et locale. Grâce à une large gamme de produits, une livraison rapide, et des paiements sécurisés, NEWA redéfinit la manière dont les Marocains achètent en ligne.",
+    "features": {
+      "delivery": {
+        "title": "Livraison locale",
+        "description": "Livraison rapide dans tout le Maroc"
+      },
+      "variety": {
+        "title": "Grande variété",
+        "description": "Des milliers de produits locaux et internationaux"
+      },
+      "payment": {
+        "title": "Paiement sécurisé",
+        "description": "Options de paiement multiples et sécurisées"
+      },
+      "mobile": {
+        "title": "Mobile-first",
+        "description": "Expérience optimisée pour mobile et web"
+      }
+    }
+  },
+  "preview": {
+    "title": "Aperçu App & Site",
+    "subtitle": "Découvrez l'expérience NEWA",
+    "app": "Application mobile",
+    "website": "Site web",
+    "experience": "Une expérience utilisateur fluide et intuitive"
+  },
+  "signup": {
+    "title": "Inscription",
+    "subtitle": "Soyez le premier à découvrir NEWA",
+    "placeholder": "Votre adresse email",
+    "button": "S'inscrire",
+    "success": "Merci pour votre inscription!"
+  },
+  "social": {
+    "title": "Suivez-nous",
+    "subtitle": "Restez connecté avec NEWA"
+  },
+  "footer": {
+    "rights": "© 2025 NEWA. Tous droits réservés.",
+    "terms": "Conditions d'utilisation",
+    "privacy": "Politique de confidentialité",
+    "contact": "Contact"
+  }
+}
