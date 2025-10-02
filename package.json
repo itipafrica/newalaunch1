@@ -7,6 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "start": "serve dist",
+    "predeploy": "vite build && cp dist/index.html dist/404.html",
+    "deploy": "gh-pages -d dist",
     "lint": "eslint .",
     "preview": "vite preview"
   },
